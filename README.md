@@ -3,7 +3,6 @@
 ## Proje Demosu
 
 
-https://user-images.githubusercontent.com/19311040/169427985-955785fc-a033-4a46-90ab-dde52b257947.mp4
 
 
 
