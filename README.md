@@ -4,8 +4,6 @@
 
 
 
-
-
 ## Çalıştırmak İçin Yapılması Gerekenler
 
 ### geolocator
@@ -31,7 +29,6 @@ https://console.cloud.google.com/projectselector2/google/maps-apis/overview?supp
   
    `import GoogleMaps`
 
-https://user-images.githubusercontent.com/19311040/169427990-c05ea121-2633-405c-ab46-a27d16e56b4a.mp4
 
 
   
