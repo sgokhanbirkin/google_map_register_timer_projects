@@ -2,6 +2,7 @@
 
 ## Proje Demosu
 
+https://user-images.githubusercontent.com/19311040/169428603-ab9c90f1-e83c-4d40-b63a-05a0cff6055b.mp4
 
 
 ## Çalıştırmak İçin Yapılması Gerekenler
@@ -28,6 +29,8 @@ https://console.cloud.google.com/projectselector2/google/maps-apis/overview?supp
 #### Ios için Runner/AppDelegate.swift dosyasında aşağıdaki kodları ekliyoruz.
   
    `import GoogleMaps`
+
+
 
 
 
